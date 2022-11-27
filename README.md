@@ -92,14 +92,10 @@
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+* ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+* ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
